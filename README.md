@@ -30,7 +30,7 @@ I enjoy building intelligent systems, solving real-world problems with data, and
   <a href="https://www.linkedin.com/in/adityakumarsinha110403/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya kumar sinha" height="30" width="40" /></a>
   <a href="https://leetcode.com/u/Ad1tya_S1nha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ad1tya_s1nha" height="30" width="40" /></a>
   <a href="mailto:adityauv11@gmail.com" target="_blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Gmail" height="30" width="40" style="margin-left:10px"/>
+  <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" height="30" width="40" style="margin-left:10px"/>
 </a>
 </p>
 
