@@ -2,7 +2,7 @@
 
   <h1>Hi 👋, I'm Aditya</h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=500&color=F75C7E&center=true&vCenter=true&width=700&lines=Training+models,+Building+projects,+Lifting+weights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=750&color=F75C7E&center=true&vCenter=true&width=700&lines=Training+models|+Building+projects|+Lifting+weights" alt="Typing SVG" />
 
 </div>
 
