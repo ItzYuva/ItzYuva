@@ -3,26 +3,22 @@
 
 ---
 
-### 👨‍💻 About Me
-
-I enjoy building intelligent systems, solving real-world problems with data, and creating meaningful tech experiences.
-
-- 🎓 Final-year CSE (AI & ML) undergrad  
-- 💼 Currently working at **INVIDI Technologies**  
-- ⚙️ Experienced with Machine Learning, Deep Learning, Python, PyTorch, and end-to-end ML pipelines
-- 🌐 Learning German 🇩🇪 for my Master's journey  
-- 💪 Also into fitness — lifting weights because lifting DSA questions alone doesn’t build muscle 🏋️‍♂️  
-- 🧩 Loves breaking down complex ideas into visual, intuitive experiences  
-
----
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=itzyuva&label=Profile%20views&color=0e75b6&style=flat" alt="itzyuva" /> 
 </p>
 
-- 🔭 I’m currently working on **NeuraViz** — my interactive neural network visualizer project  
+### 👨‍💻 About Me
+
+I enjoy building intelligent systems, solving real-world problems with data, and creating meaningful tech experiences.
+
+- 🎓 Final-year CSE (AI & ML) undergrad
+- 🔭 I’m currently working on **NeuraViz** — my interactive neural network visualizer project
+- 💼 Currently working at **INVIDI Technologies India Private Limited**  
+- ⚙️ Experienced with Machine Learning, Deep Learning, Python, PyTorch, and end-to-end ML pipelines
+- 🌐 Learning German 🇩🇪 for my Master's journey  
+- 💪 Also into fitness — lifting weights because lifting DSA questions alone doesn’t build muscle 🏋️‍♂️
 - 📫 You can reach me on **adityauv11@gmail.com**  
-- ⚡ **Fun fact**: I can switch from fine-tuning a neural network to crushing a workout playlist faster than you can say “backpropagation.”  
+- ⚡ **Fun fact**: I can switch from fine-tuning a neural network to crushing a workout playlist faster than you can say **backpropagation**. 
 
 ---
 
