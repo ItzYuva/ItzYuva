@@ -1,21 +1,41 @@
-<h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">An AI/ML developer from India</h3>
+<h1 align="center">Hi 👋, I'm Adithya</h1>
+<h3 align="center">An AI/ML Developer from India 🇮🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itzyuva&label=Profile%20views&color=0e75b6&style=flat" alt="itzyuva" /> </p>
+---
 
-- 🔭 I’m currently working on **NeuraViz**
+### 👨‍💻 About Me
 
-- 🌱 I’m currently learning **Data Structure & Algorithms**
+I'm Adithya — a passionate AI/ML Developer from India 🇮🇳  
+I enjoy building intelligent systems, solving real-world problems with data, and creating meaningful tech experiences.
 
-- 📫 You can reach me on **adityauv11@gmail.com**
+- 🎓 Final-year CSE (AI & ML) undergrad  
+- 💼 Currently working at **INVIDI Technologies**  
+- ⚙️ Experienced with Machine Learning, Deep Learning, Python, PyTorch, and end-to-end ML pipelines  
+- 🧠 Currently exploring advanced **CNN architectures**, **Nesterov’s GD**, and **NeuraViz** — my interactive neural network visualizer project  
+- 🌐 Learning German 🇩🇪 for my Master's journey  
+- 💪 Also into fitness — I balance coding sprints with actual sprints 🏋️‍♂️  
+- 🧩 Loves breaking down complex ideas into visual, intuitive experiences  
 
-- ⚡ Fun fact: **I can switch from fine-tuning a neural network to crushing a workout playlist faster than you can say “backpropagation.”**
+---
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=itzyuva&label=Profile%20views&color=0e75b6&style=flat" alt="itzyuva" /> 
+</p>
+
+- 🔭 I’m currently working on **NeuraViz**  
+- 🌱 I’m currently learning **Data Structure & Algorithms**  
+- 📫 You can reach me on **adityauv11@gmail.com**  
+- ⚡ **Fun fact**: I can switch from fine-tuning a neural network to crushing a workout playlist faster than you can say “backpropagation.”  
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/adityakumarsinha110403/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya kumar sinha" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Ad1tya_S1nha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ad1tya_s1nha" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/adityakumarsinha110403/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya kumar sinha" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/Ad1tya_S1nha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ad1tya_s1nha" height="30" width="40" /></a>
 </p>
+
+---
 
 <h3 align="center">🛠️ Languages and Tools</h3>
 
@@ -37,13 +57,9 @@
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" style="margin:10px"/></a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" style="margin:10px"/></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="margin:10px"/></a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="margin:10px"/>
-</a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="margin:10px"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin:10px"/></a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" style="margin:10px"/></a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" style="margin:10px"/></a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" style="margin:10px"/></a>
 </p>
-
-
