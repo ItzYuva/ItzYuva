@@ -35,16 +35,14 @@ I enjoy building intelligent systems, solving real-world problems with data, and
 
 <h3>🛠️ Languages and Tools</h3>
 
----
-
-<h3>👨‍💻 Languages  
+<p><strong>👨‍💻 Languages</strong>  
   <span>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="25" style="margin-left:10px;"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="25" style="margin-left:10px;"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="25" style="margin-left:10px;"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="25" style="margin-left:10px;"/>
   </span>
-</h3>
+</p>
 
 <h3>🌐 Frontend  
   <span>
