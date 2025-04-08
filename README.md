@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">An AI/ML Developer from India 🇮🇳</h3>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=AI%2FML+Developer+from+India+🇮🇳;Deep+Learning+%7C+Neural+Nets+%7C+Data+Lover;Building+intelligent+systems+with+code+%F0%9F%A4%96" alt="Typing SVG" />
+  </a>
+</p>
+
+<h3 align="center">Training models | Building projects | Redefining AI</h3>
 
 ---
 
