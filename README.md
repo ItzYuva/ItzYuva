@@ -44,38 +44,38 @@ I enjoy building intelligent systems, solving real-world problems with data, and
   </span>
 </p>
 
-<h3>🌐 Frontend  
+<p><strong>🌐 Frontend</strong>  
   <span>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="25" style="margin-left:10px;"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="25" style="margin-left:10px;"/>
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="25" style="margin-left:10px;"/>
   </span>
-</h3>
+</p>
 
-<h3>🧩 Backend & Frameworks  
+<p><strong>🧩 Backend & Frameworks</strong>  
   <span>
     <img src="https://blog.appseed.us/content/images/2023/09/cover-flask.jpg" alt="Flask" width="25" style="margin-left:10px;"/>
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="25" style="margin-left:10px;"/>
   </span>
-</h3>
+</p>
 
-<h3>🗄️ Databases  
+<p><strong>🗄️ Databases</strong>  
   <span>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="25" style="margin-left:10px;"/>
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="25" style="margin-left:10px;"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="25" style="margin-left:10px;"/>
   </span>
-</h3>
+</p>
 
-<h3>☁️ Cloud & DevOps  
+<p><strong>☁️ Cloud & DevOps</strong>  
   <span>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="25" style="margin-left:10px;"/>
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="25" style="margin-left:10px;"/>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="25" style="margin-left:10px;"/>
   </span>
-</h3>
+</p>
 
-<h3>📊 Data Science & Machine Learning  
+<p><strong>📊 Data Science & Machine Learning</strong>  
   <span>
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="25" style="margin-left:10px;"/>
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="25" style="margin-left:10px;"/>
@@ -83,11 +83,11 @@ I enjoy building intelligent systems, solving real-world problems with data, and
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="25" style="margin-left:10px;"/>
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="25" style="margin-left:10px;"/>
   </span>
-</h3>
+</p>
 
-<h3>🛠️ Tools & Utilities  
+<p><strong>🛠️ Tools & Utilities</strong>  
   <span>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="25" style="margin-left:10px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="25" style="margin-left:10px;"/>
   </span>
-</h3>
+</p>
