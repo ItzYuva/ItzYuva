@@ -90,5 +90,5 @@ I enjoy building intelligent systems, solving real-world problems with data, and
 ### 🛠️ Tools & Utilities
 <span>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="25" style="margin-right:10px"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="25" style="margin-right:10px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="25" style="margin-right:10px"/>
 </span>
