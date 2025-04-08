@@ -3,9 +3,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Training+models+%7C+Building+projects+%7C+Redefining+AI" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Training+models;Building+projects;Redefining+AI" alt="Typing SVG" />
 </p>
 
 ---
