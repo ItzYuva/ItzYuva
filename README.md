@@ -6,10 +6,6 @@
 
 </div>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=itzyuva&label=Profile%20views&color=0e75b6&style=flat" alt="itzyuva" /> 
-</p>
-
 ### 👨‍💻 About Me
 
 I enjoy building intelligent systems, solving real-world problems with data, and creating meaningful tech experiences.
