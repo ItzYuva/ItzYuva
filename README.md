@@ -69,20 +69,26 @@ I enjoy building intelligent systems, solving real-world problems with data, and
 </span>
 
 
-### ☁️ Cloud & DevOps  
+### ☁️ Cloud & DevOps
+<span>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="25" style="margin-right:10px"/>
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="25" style="margin-right:10px"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="25" style="margin-right:10px"/>
+</span>
 
 
-### 📊 Data Science & Machine Learning  
+### 📊 Data Science & Machine Learning
+<span>
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="25" style="margin-right:10px"/>
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="25" style="margin-right:10px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="25" style="margin-right:10px"/>
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="25" style="margin-right:10px"/>
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="25" style="margin-right:10px"/>
+</span>
 
 
-### 🛠️ Tools & Utilities  
+### 🛠️ Tools & Utilities
+<span>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="25" style="margin-right:10px"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="25" style="margin-right:10px"/>
+</span>
