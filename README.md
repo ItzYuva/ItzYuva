@@ -33,7 +33,7 @@ I enjoy building intelligent systems, solving real-world problems with data, and
 
 ---
 
-<h3 align="center">🛠️ Languages and Tools</h3>
+<h3>🛠️ Languages and Tools</h3>
 
 ---
 
