@@ -52,7 +52,7 @@ I enjoy building intelligent systems, solving real-world problems with data, and
   <span>
     <img src="https://blog.appseed.us/content/images/2023/09/cover-flask.jpg" alt="Flask" width="25" style="margin-left:10px;"/>
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="25" style="margin-left:10px;"/>
-    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="25" style="margin-left:10px;"/>
+    <img src="https://github.com/user-attachments/assets/3a735989-25d7-4161-86b4-d998181ce851" alt="FastAPI" width="25" style="margin-left:10px;"/>
   </span>
 </p>
 
