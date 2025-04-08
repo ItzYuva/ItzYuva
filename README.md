@@ -19,8 +19,7 @@ I enjoy building intelligent systems, solving real-world problems with data, and
 - 💼 Currently working at **INVIDI Technologies India Private Limited**  
 - ⚙️ Experienced with Machine Learning, Deep Learning, Python, PyTorch, and end-to-end ML pipelines
 - 🌐 Learning German 🇩🇪 for my Master's journey  
-- 💪 Also into fitness — lifting weights because lifting DSA questions alone doesn’t build muscle 🏋️‍♂️
-- 📫 You can reach me on **adityauv11@gmail.com**  
+- 💪 Also into fitness — lifting weights because lifting DSA questions alone doesn’t build muscle 🏋️‍♂️ 
 - ⚡ **Fun fact**: I can switch from fine-tuning a neural network to crushing a workout playlist faster than you can say **backpropagation**. 
 
 ---
