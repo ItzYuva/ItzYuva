@@ -61,10 +61,12 @@ I enjoy building intelligent systems, solving real-world problems with data, and
 </span>
 
 
-### 🗄️ Databases  
+### 🗄️ Databases
+<span>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="25" style="margin-right:10px"/>
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="25" style="margin-right:10px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="25" style="margin-right:10px"/>
+</span>
 
 
 ### ☁️ Cloud & DevOps  
