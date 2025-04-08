@@ -1,12 +1,7 @@
-<h1 align="center">Hi 👋, I'm Aditya</h1>
-
----
-
+<h1 align="center">Hi 👋, I'm Adithya</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=500&color=F75C7E&center=true&vCenter=true&width=500&lines=Training+models;Building+projects;Redefining+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=500&color=F75C7E&center=true&vCenter=true&width=400&lines=Training+models;Building+projects;Redefining+AI" alt="Typing SVG" />
 </p>
-
----
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=itzyuva&label=Profile%20views&color=0e75b6&style=flat" alt="itzyuva" /> 
