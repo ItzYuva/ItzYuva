@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 
+---
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Training+models+%7C+Building+projects+%7C+Redefining+AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Training+models+%7C+Building+projects+%7C+Redefining+AI" alt="Typing SVG" />
   </a>
 </p>
-
-<h3 align="center">Training models | Building projects | Redefining AI</h3>
 
 ---
 
