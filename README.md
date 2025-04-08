@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adithya</h1>
+<h1 align="center">Hi 👋, I'm Aditya</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=500&color=F75C7E&center=true&vCenter=true&width=400&lines=Training+models;Building+projects;Redefining+AI" alt="Typing SVG" />
 </p>
