@@ -10,9 +10,8 @@
 
 I enjoy building intelligent systems, solving real-world problems with data, and creating meaningful tech experiences.
 
-- 🎓 Final-year CSE (AI & ML) undergrad
+- 🎓 Computer Science (AI & ML) graduate
 - 🔭 I’m currently working on **NeuraViz** — my interactive neural network visualizer project
-- 💼 Currently working at **INVIDI Technologies India Private Limited**  
 - ⚙️ Experienced with Machine Learning, Deep Learning, Python, PyTorch, and end-to-end ML pipelines
 - 🌐 Learning German 🇩🇪 for my Master's journey  
 - 💪 Also into fitness — lifting weights because lifting DSA questions alone doesn’t build muscle 🏋️‍♂️ 
